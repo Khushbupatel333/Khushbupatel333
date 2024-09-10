@@ -10,5 +10,4 @@
   ML algorithms and techniques such as Random Forest,Decision Tree and XGBoost Classifier.
 - Additionally also worked on Power BI projects to built interactive dashboard to visualize insights and trends 
   from dataset.
-
 - Aspiring Data Science role to leverage experience and contribute to impactful projects.- 
